@@ -1,4 +1,4 @@
-package com.example.demo;
+package edu.neu.cs4500;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
