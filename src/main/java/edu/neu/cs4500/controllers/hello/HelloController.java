@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloController {
 	@RequestMapping("/api/hello/string")
 	public String sayHello() {
-		return "Hello CS00!";
+		return "Hello CS4500!";
 	}
 	@RequestMapping("/api/hello/object")
 	public HelloObject sayHelloObject() {
